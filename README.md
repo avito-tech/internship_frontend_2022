@@ -27,6 +27,7 @@
 ## Технические требования
 
 - Приложение разработано с использованием React и Redux
+- Весь код должен быть выложен на Github с Readme файлом с инструкцией по запуску
 - Использован [официальный API Hacker News](https://github.com/HackerNews/API). Вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда (кроме случая, если вы сделаете опциональное задание про Node.JS).
 - Роутинг выполнен с использованием [React Router v5](https://github.com/ReactTraining/react-router/releases/tag/v5.0.0)
 - Фреймворк UI любой на ваше усмотрение (как пример [Ant Design](https://ant.design/) или [Semantic UI](https://react.semantic-ui.com/)). 
